@@ -1,5 +1,5 @@
 import { Test, TestingModule } from '@nestjs/testing';
-import { ComouterController } from './comouter.controller';
+import { ComouterController } from './computer.controller';
 
 describe('ComouterController', () => {
   let controller: ComouterController;
